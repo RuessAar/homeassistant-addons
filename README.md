@@ -34,10 +34,6 @@ _Need an actual Chrome runner with Javascript support? We support fetching via W
 - Override Request Headers, Specify `POST` or `GET` and other methods
 - Use the "Visual Selector" to help target specific elements
 
-_Thanks to everyone having starred my repo! To star it click on the image below, then it will be on top right. Thanks!_
-
-[![Stargazers repo roster for @jdeath/homeassistant-addons](https://reporoster.com/stars/jdeath/homeassistant-addons)](https://github.com/jdeath/homeassistant-addons/stargazers)
-
 ## Key Features
 
 
@@ -70,4 +66,4 @@ Both addons need to run on the same machine. Tested on Home Assistant 2023.5.3/S
 Note: Browserless Chrome addon is quite ressource hungry when fetching websites, bot in terms of RAM and CPU. Works fine on RPi 4B, may be slow on older devices. Maximum simultaneous fetches are limited to 1.
 
 
-[repository]: https://github.com/jdeath/homeassistant-addons
+[repository]: https://github.com/RuessAar/homeassistant-addons
