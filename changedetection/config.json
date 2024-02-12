@@ -13,7 +13,7 @@
   },
   "schema":
   {
-    "PLAYWRIGHT_DRIVER_URL": str
+    "PLAYWRIGHT_DRIVER_URL": "str"
   },
   "description": "Live your data-life pro-actively, track website content changes and receive notifications via Discord, Email, Slack, Telegram and 70+ more",
   "environment": {
